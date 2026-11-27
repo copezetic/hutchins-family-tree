@@ -1,0 +1,872 @@
+{
+ "book-agincourt-1415": {
+  "cues": "62220dc73490",
+  "hash": "62220dc73490",
+  "secs": 22.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "book-hughs-son": {
+  "cues": "9311f1eaab36",
+  "hash": "9311f1eaab36",
+  "secs": 31.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "book-the-first-hutchinses-in-america": {
+  "cues": "a955b5591241",
+  "hash": "a955b5591241",
+  "secs": 39.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "book-thirty-years-in-the-records": {
+  "cues": "215e966bfc13",
+  "hash": "215e966bfc13",
+  "secs": 35.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "book-thomas-hutchins-of-london": {
+  "cues": "eef481f9693c",
+  "hash": "eef481f9693c",
+  "secs": 34.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "book-to-the-st-lawrence": {
+  "cues": "dfe570434eb5",
+  "hash": "dfe570434eb5",
+  "secs": 30.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-alsace-and-bavaria-to-the-prairie": {
+  "cues": "c3b9b6a6c07f",
+  "hash": "c3b9b6a6c07f",
+  "secs": 89.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-dakota": {
+  "cues": "f607f1ab8dcf",
+  "hash": "f607f1ab8dcf",
+  "secs": 68.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-luga": {
+  "cues": "45ed6daa05f2",
+  "hash": "45ed6daa05f2",
+  "secs": 58.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-paterson": {
+  "cues": "a661e6fba5b0",
+  "hash": "a661e6fba5b0",
+  "secs": 38.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-the-adams-county-border-country": {
+  "cues": "c4ff89dee0ab",
+  "hash": "c4ff89dee0ab",
+  "secs": 94.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-the-dp-years": {
+  "cues": "34314a7c7304",
+  "hash": "34314a7c7304",
+  "secs": 61.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-the-irish-of-brooklyn": {
+  "cues": "23199aadd6c8",
+  "hash": "23199aadd6c8",
+  "secs": 121.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-the-palatines": {
+  "cues": "229fe1056a83",
+  "hash": "229fe1056a83",
+  "secs": 69.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "c-west-by-rail": {
+  "cues": "697727e188e4",
+  "hash": "697727e188e4",
+  "secs": 55.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-a-farmers-war": {
+  "cues": "c61dc31c5e15",
+  "hash": "c61dc31c5e15",
+  "secs": 69.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-coal-over-the-mountain": {
+  "cues": "67d0d5c6ee5d",
+  "hash": "67d0d5c6ee5d",
+  "secs": 108.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-connecticut-to-the-finger-lakes": {
+  "cues": "57f823acc0e0",
+  "hash": "57f823acc0e0",
+  "secs": 76.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-dorset-to-salem": {
+  "cues": "fb29de1d8bd6",
+  "hash": "fb29de1d8bd6",
+  "secs": 75.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-down-from-the-mayflower": {
+  "cues": "9618a65a4796",
+  "hash": "9618a65a4796",
+  "secs": 83.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-lanarkshire-to-lower-canada": {
+  "cues": "ac603ee5985e",
+  "hash": "ac603ee5985e",
+  "secs": 92.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-lorraine-to-the-erie-canal": {
+  "cues": "4c84e098ab8b",
+  "hash": "4c84e098ab8b",
+  "secs": 100.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-north-to-the-canadian-line": {
+  "cues": "8b91d25d0fc6",
+  "hash": "8b91d25d0fc6",
+  "secs": 96.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-pennsylvania-german-country": {
+  "cues": "596345eb4807",
+  "hash": "596345eb4807",
+  "secs": 88.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-speak-for-yourself-john": {
+  "cues": "942ba1cfb78f",
+  "hash": "942ba1cfb78f",
+  "secs": 74.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-the-cooper-who-stayed": {
+  "cues": "f4d81b98ece1",
+  "hash": "f4d81b98ece1",
+  "secs": 79.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-the-governors-stepson": {
+  "cues": "1a71d115d375",
+  "hash": "1a71d115d375",
+  "secs": 82.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-the-great-migration": {
+  "cues": "cdf0d696f778",
+  "hash": "cdf0d696f778",
+  "secs": 71.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-the-north-country": {
+  "cues": "34c71f28bde1",
+  "hash": "34c71f28bde1",
+  "secs": 84.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-the-shoemakers-daughter": {
+  "cues": "63f351fad1a3",
+  "hash": "63f351fad1a3",
+  "secs": 83.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-vermont-kerry-and-bavaria": {
+  "cues": "f5a58d5022be",
+  "hash": "f5a58d5022be",
+  "secs": 92.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "h-winslows-man-and-the-bristol-carpenter": {
+  "cues": "7112fe1965e9",
+  "hash": "7112fe1965e9",
+  "secs": 99.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-0": {
+  "cues": "9b94f1ba3e2f",
+  "hash": "9b94f1ba3e2f",
+  "secs": 16.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-1": {
+  "cues": "b292f8f9a24b",
+  "hash": "b292f8f9a24b",
+  "secs": 13.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-2": {
+  "cues": "c784e06e52ee",
+  "hash": "c784e06e52ee",
+  "secs": 18.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-3": {
+  "cues": "0cee3711453a",
+  "hash": "0cee3711453a",
+  "secs": 14.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-4": {
+  "cues": "ce22080150a3",
+  "hash": "ce22080150a3",
+  "secs": 17.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-5": {
+  "cues": "b38035e6305a",
+  "hash": "b38035e6305a",
+  "secs": 18.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-bunkerhill-6": {
+  "cues": "9a41b6ce7e31",
+  "hash": "9a41b6ce7e31",
+  "secs": 14.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-0": {
+  "cues": "72df42a18ec4",
+  "hash": "72df42a18ec4",
+  "secs": 17.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-1": {
+  "cues": "07e024a7706f",
+  "hash": "07e024a7706f",
+  "secs": 18.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-2": {
+  "cues": "a20b91117ea6",
+  "hash": "a20b91117ea6",
+  "secs": 21.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-3": {
+  "cues": "8d189292e14f",
+  "hash": "8d189292e14f",
+  "secs": 8.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-4": {
+  "cues": "e7a32b6d69f0",
+  "hash": "e7a32b6d69f0",
+  "secs": 21.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-5": {
+  "cues": "d689e86018dd",
+  "hash": "d689e86018dd",
+  "secs": 31.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-gettysburg-6": {
+  "cues": "fd9ef1fb653e",
+  "hash": "fd9ef1fb653e",
+  "secs": 18.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-saratoga-0": {
+  "cues": "9bafcc559a36",
+  "hash": "9bafcc559a36",
+  "secs": 24.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-saratoga-1": {
+  "cues": "1536e79353b3",
+  "hash": "1536e79353b3",
+  "secs": 13.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-saratoga-2": {
+  "cues": "f9c4267f6cff",
+  "hash": "f9c4267f6cff",
+  "secs": 18.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-saratoga-3": {
+  "cues": "61cb1eeaff9d",
+  "hash": "61cb1eeaff9d",
+  "secs": 12.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-saratoga-4": {
+  "cues": "5de10b062942",
+  "hash": "5de10b062942",
+  "secs": 18.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "m-saratoga-5": {
+  "cues": "89207ee9b23b",
+  "hash": "89207ee9b23b",
+  "secs": 19.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-alex-kuleshowa-evdochia-brill": {
+  "cues": "598655c15003",
+  "hash": "598655c15003",
+  "secs": 33.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-alexander-maksimow-carol-wintrode": {
+  "cues": "b37523f084cf",
+  "hash": "b37523f084cf",
+  "secs": 2.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-alexander-maksimow-helga-hansen": {
+  "cues": "7b10fcbe1aae",
+  "hash": "7b10fcbe1aae",
+  "secs": 31.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-allen-dana-hutchins-maryette-f-briggs": {
+  "cues": "3a19640876da",
+  "hash": "3a19640876da",
+  "secs": 119.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-allen-dewitt-hutchins-sarah-snyder-hutchins": {
+  "cues": "ad0eeeb3cf3c",
+  "hash": "ad0eeeb3cf3c",
+  "secs": 6.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-andreas-eschbach-tessime-eschbach": {
+  "cues": "a427293404de",
+  "hash": "a427293404de",
+  "secs": 87.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-antoine-casper-marie-anne-fischer": {
+  "cues": "f2ddd048a214",
+  "hash": "f2ddd048a214",
+  "secs": 32.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-antoine-philipps-marie-angelique-schmitt": {
+  "cues": "0f567c148d0b",
+  "hash": "0f567c148d0b",
+  "secs": 43.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-benjamin-eaton-sarah-hoskins": {
+  "cues": "d9a7d539651b",
+  "hash": "d9a7d539651b",
+  "secs": 48.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-casper-schmitt-anna-ziegler": {
+  "cues": "02e45a3a1880",
+  "hash": "02e45a3a1880",
+  "secs": 56.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-clarence-robert-hutchins-jeanette-margaret-watson": {
+  "cues": "c57c97149a77",
+  "hash": "c57c97149a77",
+  "secs": 52.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-constant-southworth-elizabeth-collier": {
+  "cues": "d95d173812b8",
+  "hash": "d95d173812b8",
+  "secs": 54.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-constant-southworth-mary-porter": {
+  "cues": "ab6a04553886",
+  "hash": "ab6a04553886",
+  "secs": 50.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-constant-southworth-ruth-peckham": {
+  "cues": "99b424571f68",
+  "hash": "99b424571f68",
+  "secs": 45.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-cyrel-hutchins-betsey-stearns": {
+  "cues": "945f336af08d",
+  "hash": "945f336af08d",
+  "secs": 63.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-dana-hutchins-olive-smith": {
+  "cues": "2ba545f0fa3c",
+  "hash": "2ba545f0fa3c",
+  "secs": 14.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-dewitt-allen-hutchins-barbara-hammond-hutchins": {
+  "cues": "f27de3283033",
+  "hash": "f27de3283033",
+  "secs": 88.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-dewitt-allen-hutchins-grace-southworth": {
+  "cues": "71b00ea4e600",
+  "hash": "71b00ea4e600",
+  "secs": 34.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-dominick-fritz-barbara-noullet": {
+  "cues": "5c22d3467e33",
+  "hash": "5c22d3467e33",
+  "secs": 49.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-edward-clinton-wintrode-anna-m-ogden": {
+  "cues": "e87e0ebd16db",
+  "hash": "e87e0ebd16db",
+  "secs": 217.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-edward-southworth-alice-carpenter": {
+  "cues": "dc2842e9b472",
+  "hash": "dc2842e9b472",
+  "secs": 32.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francis-charles-ogden-elizabeth-polly": {
+  "cues": "fc3aa1b4aba4",
+  "hash": "fc3aa1b4aba4",
+  "secs": 130.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francis-eaton-christian-penn": {
+  "cues": "930fe7e97140",
+  "hash": "930fe7e97140",
+  "secs": 38.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francis-frank-fritz-catharine-schmidt": {
+  "cues": "8ee9465dbd96",
+  "hash": "8ee9465dbd96",
+  "secs": 82.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francis-frank-m-staebell-sr-margaretha-phillips": {
+  "cues": "b93540e81cd1",
+  "hash": "b93540e81cd1",
+  "secs": 145.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francis-patrick-jackson-catherine-frances-duffy": {
+  "cues": "6aba0e8e46c7",
+  "hash": "6aba0e8e46c7",
+  "secs": 105.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francis-southworth-nancy-hunter": {
+  "cues": "5a1a7f0f3f0c",
+  "hash": "5a1a7f0f3f0c",
+  "secs": 69.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-franciscus-antonius-philipps-anna-margretha-klehammer": {
+  "cues": "1a898125ab9a",
+  "hash": "1a898125ab9a",
+  "secs": 34.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-francois-staebell-marie-anne-casper": {
+  "cues": "0ea88db2d9a1",
+  "hash": "0ea88db2d9a1",
+  "secs": 67.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-george-hutchins-alice": {
+  "cues": "ea7e35d5a377",
+  "hash": "ea7e35d5a377",
+  "secs": 38.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-george-soule-deborah": {
+  "cues": "3c046ccdac86",
+  "hash": "3c046ccdac86",
+  "secs": 26.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-george-soule-mary-buckett": {
+  "cues": "7590750bb9a1",
+  "hash": "7590750bb9a1",
+  "secs": 38.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-george-winebrenner-sarah-patterson": {
+  "cues": "06b76ab8a13d",
+  "hash": "06b76ab8a13d",
+  "secs": 79.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-georges-fritz-elisabeth-mumpert": {
+  "cues": "5e93edbcf7d4",
+  "hash": "5e93edbcf7d4",
+  "secs": 36.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-harry-oscar-wintrode-elizabeth-mary-fritz": {
+  "cues": "00c4c86c15d4",
+  "hash": "00c4c86c15d4",
+  "secs": 113.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-hugh-hutchins-mary-knight": {
+  "cues": "008f9bf62d12",
+  "hash": "008f9bf62d12",
+  "secs": 69.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-joannes-jacob-staebell-catherine-casper": {
+  "cues": "a32d2889c2df",
+  "hash": "a32d2889c2df",
+  "secs": 33.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-johann-adam-winterode-maria-magdalena-ashbaugh": {
+  "cues": "3c12260929cd",
+  "hash": "3c12260929cd",
+  "secs": 70.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-johann-caspar-wenderoth-anna-margaretha-strep": {
+  "cues": "5b012605eb24",
+  "hash": "5b012605eb24",
+  "secs": 48.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-johann-george-winebrenner-sr": {
+  "cues": "36cedb0c6eb0",
+  "hash": "36cedb0c6eb0",
+  "secs": 29.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-johann-jacob-winteroth-anna-barb-winderroth": {
+  "cues": "03f6505905f3",
+  "hash": "03f6505905f3",
+  "secs": 54.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-john-alden-priscilla-mullins": {
+  "cues": "271f1d4f59f5",
+  "hash": "271f1d4f59f5",
+  "secs": 36.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-john-lawrence-fritz-mary-ann-staebell": {
+  "cues": "8c6de16c4261",
+  "hash": "8c6de16c4261",
+  "secs": 118.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-joseph-holloway-hannah-soule-4": {
+  "cues": "106d84cfe970",
+  "hash": "106d84cfe970",
+  "secs": 41.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-karl-otto-paul-hansen-martha-helene-stiefes": {
+  "cues": "a29951ffdfc7",
+  "hash": "a29951ffdfc7",
+  "secs": 50.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-lawrence-southwick-cassandra-burnell": {
+  "cues": "0e669d221a6f",
+  "hash": "0e669d221a6f",
+  "secs": 58.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-louis-jackson-minnie-palmer": {
+  "cues": "e54fbeafdfab",
+  "hash": "e54fbeafdfab",
+  "secs": 27.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-martin-noullet-maria-elisabeth-aschbacher": {
+  "cues": "cd24d5435715",
+  "hash": "cd24d5435715",
+  "secs": 31.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-mathew-hutchins-marjore-hutchins": {
+  "cues": "230c9dc8ec81",
+  "hash": "230c9dc8ec81",
+  "secs": 32.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-mathew-hutchins-marjorie-joanna-hutchins": {
+  "cues": "283110613622",
+  "hash": "283110613622",
+  "secs": 33.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-maurice-charles-wintrode-muriel-frances-jackson": {
+  "cues": "6052d43d9bc8",
+  "hash": "6052d43d9bc8",
+  "secs": 131.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-nathaniel-southworth-mary-torrey": {
+  "cues": "5266396ae0cf",
+  "hash": "5266396ae0cf",
+  "secs": 42.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-pierre-schmitt-madelaine-werner": {
+  "cues": "9acf51ef65ed",
+  "hash": "9acf51ef65ed",
+  "secs": 26.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-rev-john-wilson-elizabeth-mansfield": {
+  "cues": "20ab67ec2078",
+  "hash": "20ab67ec2078",
+  "secs": 51.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-rev-john-wilson-sarah-hooker": {
+  "cues": "65758de43150",
+  "hash": "65758de43150",
+  "secs": 66.3,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-rev-thomas-hooker-susanna": {
+  "cues": "f7b9c20d3dc4",
+  "hash": "f7b9c20d3dc4",
+  "secs": 53.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-robert-hinsdale-ann": {
+  "cues": "3455b84746aa",
+  "hash": "3455b84746aa",
+  "secs": 40.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-samuel-wintrode-sarah-ann-weinbrenner": {
+  "cues": "9309cbc224ea",
+  "hash": "9309cbc224ea",
+  "secs": 124.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-sergeant-abraham-doolittle-abigail-moss": {
+  "cues": "73a49297f26f",
+  "hash": "73a49297f26f",
+  "secs": 55.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-bucher-line": {
+  "cues": "92b8391aaf4d",
+  "hash": "92b8391aaf4d",
+  "secs": 4.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-doolittle-line": {
+  "cues": "cdb9e5f926e6",
+  "hash": "cdb9e5f926e6",
+  "secs": 5.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-hammond-line": {
+  "cues": "c346888c5ea4",
+  "hash": "c346888c5ea4",
+  "secs": 4.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-muir-line": {
+  "cues": "32295dd9e77f",
+  "hash": "32295dd9e77f",
+  "secs": 4.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-snyder-line": {
+  "cues": "06db91cf69e1",
+  "hash": "06db91cf69e1",
+  "secs": 4.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-southworth-line": {
+  "cues": "f2b098560cd7",
+  "hash": "f2b098560cd7",
+  "secs": 5.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-the-watson-line": {
+  "cues": "fce734ef39b1",
+  "hash": "fce734ef39b1",
+  "secs": 5.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-thomas-hutchins-abigail-pierce": {
+  "cues": "ce1ff8e7b4a1",
+  "hash": "ce1ff8e7b4a1",
+  "secs": 70.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-thomas-hutchins-priscilla-dana": {
+  "cues": "a70944d2f275",
+  "hash": "a70944d2f275",
+  "secs": 12.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-thomas-hutchins-sarah-southwick": {
+  "cues": "a18ce78c6327",
+  "hash": "a18ce78c6327",
+  "secs": 40.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-valentin-maksimow-zinaida-kuleshowa": {
+  "cues": "f7e6457b356e",
+  "hash": "f7e6457b356e",
+  "secs": 160.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-william-mullins-alice": {
+  "cues": "2ba6037b935f",
+  "hash": "2ba6037b935f",
+  "secs": 25.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-william-pabodie-elizabeth-alden": {
+  "cues": "cded7305223c",
+  "hash": "cded7305223c",
+  "secs": 55.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-william-soule-hannah-eaton": {
+  "cues": "31a6c88742a2",
+  "hash": "31a6c88742a2",
+  "secs": 49.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "p-william-southworth-rebecca-pabodie": {
+  "cues": "4a766d7cc331",
+  "hash": "4a766d7cc331",
+  "secs": 30.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-both-sides-the-mayflower": {
+  "cues": "f235a8f6f2a0",
+  "hash": "f235a8f6f2a0",
+  "secs": 13.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-christines-fathers-side-the-maksimows": {
+  "cues": "09bba9d2e3c8",
+  "hash": "09bba9d2e3c8",
+  "secs": 8.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-christines-mothers-side-wintrode-fritz-staebell-jackson": {
+  "cues": "51d4d5626d8b",
+  "hash": "51d4d5626d8b",
+  "secs": 14.9,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-dewitts-colonial-ancestors-the-puritans": {
+  "cues": "71af733ef7e4",
+  "hash": "71af733ef7e4",
+  "secs": 11.0,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-dewitts-fathers-side-alden-and-southworth": {
+  "cues": "55df4269fb05",
+  "hash": "55df4269fb05",
+  "secs": 11.6,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-dewitts-fathers-side-the-hutchins-line": {
+  "cues": "a56678d91e87",
+  "hash": "a56678d91e87",
+  "secs": 5.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-dewitts-mothers-side-soule-and-eaton": {
+  "cues": "f2ee3fc8099d",
+  "hash": "f2ee3fc8099d",
+  "secs": 14.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-generation-xv-dewitt-hutchins": {
+  "cues": "7e6b808e461a",
+  "hash": "7e6b808e461a",
+  "secs": 5.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-opening-both": {
+  "cues": "a5a46d90f6cf",
+  "hash": "a5a46d90f6cf",
+  "secs": 64.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-opening-c": {
+  "cues": "ade346874ae3",
+  "hash": "ade346874ae3",
+  "secs": 42.8,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-opening-h": {
+  "cues": "06a6559f76a8",
+  "hash": "06a6559f76a8",
+  "secs": 49.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-prologue-from-the-family-book": {
+  "cues": "1373c1a88ad9",
+  "hash": "1373c1a88ad9",
+  "secs": 7.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-the-families-that-married-in-snyder-doolittle-bucher-muir-hammond-watson": {
+  "cues": "f075f5e4bbe2",
+  "hash": "f075f5e4bbe2",
+  "secs": 13.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-the-hutchins-family-tree-christines-side": {
+  "cues": "eb86cfb26c69",
+  "hash": "eb86cfb26c69",
+  "secs": 9.7,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-the-hutchins-family-tree-dewitts-side": {
+  "cues": "c08c760868b2",
+  "hash": "c08c760868b2",
+  "secs": 11.2,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-today-christine": {
+  "cues": "bcacddc870b0",
+  "hash": "bcacddc870b0",
+  "secs": 7.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "t-today-dewitt-christine": {
+  "cues": "dd4c8e3e84fa",
+  "hash": "dd4c8e3e84fa",
+  "secs": 7.4,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "v-map-c": {
+  "cues": "87eecea9415c",
+  "hash": "87eecea9415c",
+  "secs": 45.1,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ },
+ "v-map-h": {
+  "cues": "5205e2b14480",
+  "hash": "5205e2b14480",
+  "secs": 46.5,
+  "voice": "Brian - Deep, Resonant and Comforting"
+ }
+}
